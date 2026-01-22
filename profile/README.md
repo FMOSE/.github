@@ -27,4 +27,4 @@ Our current research focuses on **UAM (Urban Air Mobility) Cybersecurity**.
 **Kookmin University**  
 77 Jeongneung-ro, Seongbuk-gu, Seoul, 02707, Republic of Korea
 
-🔗 [FMO Lab](https://fmo.kookmin.ac.kr) | [MoSE Lab](https://mose.kookmin.ac.kr)
+<a href="https://fmo.kookmin.ac.kr" target="_blank">FMO Lab</a> | <a href="https://mose.kookmin.ac.kr" target="_blank">MoSE Lab</a>
